@@ -1,0 +1,34 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+coverage/
+
+# Local application data and uploaded files
+/backend/data/chroma/
+/backend/uploads/
+
+# Logs and local editor / OS files
+*.log
+/.vscode/
+.idea/
+.DS_Store
+Thumbs.db
