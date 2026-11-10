@@ -17,3 +17,17 @@
 - 前端：Vue 3、Element Plus
 - AI：LangGraph、ChromaDB、BGE 中文向量模型
 - 认证与交互：JWT、SSE
+
+## 系统展示
+
+### 实验室与设备查询
+
+![实验室与设备查询](docs/images/lab_list.png)
+
+### AI 预约助手
+
+![AI 预约助手](docs/images/ai_chat.png)
+
+### 预约管理
+
+![预约管理](docs/images/reservation.png)
